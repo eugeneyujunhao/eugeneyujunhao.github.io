@@ -15,7 +15,7 @@ redirect_from:
   <div class="hero__links">
     <span class="hero__location"><i class="fas fa-location-dot"></i> Beijing, China</span>
     <a href="https://scholar.google.com/citations?user=AsPV7QIAAAAJ&hl=zh-CN"><i class="ai ai-google-scholar"></i> Google Scholar</a>
-    <a href="https://www.linkedin.com/in/eugenejyu"><i class="fab fa-linkedin"></i> LinkedIn</a>
+    <a href="https://www.linkedin.com/in/eugeneyujunhao"><i class="fab fa-linkedin"></i> LinkedIn</a>
     <a href="https://github.com/eugeneyujunhao"><i class="fab fa-github"></i> GitHub</a>
     <a href="mailto:ejyu@pku.edu.cn"><i class="fas fa-envelope"></i> Email</a>
   </div>
