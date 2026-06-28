@@ -131,7 +131,7 @@ Experience
     <span class="exp-when">Jul 2025 – Present · Beijing</span>
   </div>
   <ul class="exp-points">
-    <li>Building <b>productivity agents</b> for rich-format document generation, with <b>Xingxing Zhang</b>.</li>
+    <li>Building <b>productivity agents</b> for rich-format document generation, with <b>Xingxing Zhang</b>, <b>Tao Ge</b> &amp; <b>Xun Wang</b>.</li>
   </ul>
 </div>
 
